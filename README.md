@@ -3,7 +3,7 @@
 
 This repository contains my solutions for the **Sheba Platform Limited** SQA Engineer take-home assessment. It includes:
 
-- 📄 Test cases for bKash's "Add Money or Payment" feature  
+- 📄 Test cases for bKash's "Add Money" feature  
 - 📄 Test cases and manual test report for OrangeHRM's "Apply Leave" feature  
 - 🤖 Selenium automation scripts for login and apply leave functionality in OrangeHRM
 
